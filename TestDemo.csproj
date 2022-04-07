@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Humanizer" Version="2.12.1" />
+    <PackageReference Include="Humanizer" Version="2.30.1" />
+    <PackageReference Include="Microsoft.Data.Services" Version="2.30.1" />
+    <PackageReference Include="runtime.linux-arm64.runtime.native.System.IO.Ports" Version="2.30.1" />
   </ItemGroup>
 
 </Project>
